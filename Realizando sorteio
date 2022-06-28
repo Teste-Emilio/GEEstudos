@@ -1,0 +1,8 @@
+a= sample (1:100)
+b= 3* b
+
+v = " é agora" 
+
+w = c( v, b) 
+
+w
